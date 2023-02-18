@@ -1,0 +1,205 @@
+.sajid-first-container {
+  width: 100%;
+  height: 559px;
+  background: linear-gradient(180deg, #e89abf 1.28%, #9c90c4 95.98%);
+}
+.sajid-first-container .first-con-para {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 54px;
+  padding-top: 100px;
+  padding-left: 250px;
+
+  color: #ffffff;
+}
+.sajid-first-container .first-con-para .challenge .future {
+  border-bottom: 1px solid black;
+}
+.sajid-first-container .first-con-para .challenge {
+  padding-left: 15px;
+}
+.sajid-humantxtContainer {
+  position: relative;
+  bottom: 77px;
+  left: 250px;
+}
+.sajid-humantxtContainer .humanTxt {
+  width: 125px;
+  height: 41;
+  background-color: #066dec;
+  text-align: center;
+  padding-top: 6px;
+  padding-bottom: 2px;
+}
+.sajid-humantxtContainer .humanTxt p {
+  color: #ffffff;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+}
+.sajid-humantxtContainer .undertxt {
+  width: 306px;
+  height: 67px;
+  background: #066dec;
+  padding: 5px;
+}
+.sajid-humantxtContainer .undertxt p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+
+  color: #ffffff;
+}
+.s-2ndcontainer {
+  width: 100%;
+  height: 276px;
+  position: relative;
+  top: -115px;
+}
+.s-2ndcontainer .fstpara {
+  background: linear-gradient(90deg, #e89abf -1.46%, #9c90c4 99.28%);
+  width: 594px;
+  height: 277px;
+  /* text-align: center; */
+  padding-top: 67px;
+  padding-left: 170px;
+  text-align: left;
+  position: relative;
+  z-index: -29;
+}
+.s-2ndcontainer .fstpara .thirdp {
+  padding-top: 10px;
+}
+.s-2ndcontainer .sndpara {
+  position: relative;
+  float: right;
+  top: -14px;
+  right: 56px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 16px;
+
+  color: #65605b;
+}
+.s-third-container .profile {
+  float: left;
+}
+.s-third-container .three-para {
+  text-align: center;
+}
+.s-lastcontainer {
+  background: linear-gradient(180deg, #e7f1f3 -0.25%, #ecdee4 98.93%);
+}
+.s-lastcontainer .firstdiv {
+  position: relative;
+  height: 521px;
+  width: 1348px;
+  background: linear-gradient(90deg, #e89abf 0%, #9c90c4 100%);
+  top: 121px;
+  left: 240px;
+}
+.s-lastcontainer .textdiv {
+  position: relative;
+  height: 665px;
+  width: 672px;
+  background-color: #ffffff;
+  float: right;
+  top: -320px;
+  right: 95px;
+  border-style: dotted;
+  padding: 76px;
+}
+.s-lastcontainer .textdiv .epi {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #066dec;
+}
+.s-lastcontainer .textdiv .second {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 34px;
+  padding: 10px;
+  padding-left: 2px;
+}
+.s-lastcontainer .seconddiv {
+  position: relative;
+  height: 478px;
+  width: 752px;
+  background: linear-gradient(90deg, #e89abf 0%, #9c90c4 100%);
+  top: 151px;
+  /* left: 240px; */
+}
+.s-lastcontainer .stextdiv {
+  position: relative;
+  height: 665px;
+  width: 672px;
+  background-color: #ffffff;
+  float: left;
+  top: -260px;
+  left: 80px;
+  border-style: dotted;
+  padding: 76px;
+}
+.s-lastcontainer .stextdiv .epi {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #066dec;
+}
+.s-lastcontainer .stextdiv .second {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 34px;
+  padding: 10px;
+  padding-left: 2px;
+}
+.s-lastcontainer .t-textdiv {
+  position: relative;
+  height: 663px;
+  width: 980px;
+  background-color: #ffffff;
+  float: left;
+  top: 320px;
+  left: -232px;
+  border-style: dotted;
+  /* padding: 86px; */
+  padding-left: 82px;
+  padding-top: 50px;
+}
+.s-lastcontainer .t-textdiv .epi {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  padding-bottom: 17px;
+
+  color: #066dec;
+}
+.s-lastcontainer .t-textdiv .second {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 34px;
+  padding-top: 9px;
+}

@@ -1,0 +1,167 @@
+.s-first-container {
+  height: 552px;
+  background: linear-gradient(90deg, #f5b8a0 0%, #d5d8fb 100%);
+}
+.s-first-container .s-careertxtContainer {
+  position: relative;
+  height: 45px;
+  width: 112px;
+  background-color: #066dec;
+  opacity: 0.6;
+  left: 193px;
+  top: 217px;
+}
+.s-first-container .careerTxt {
+  position: relative;
+  height: 45px;
+  width: 112px;
+  background-color: #066dec;
+  opacity: 0.6;
+  left: 193px;
+  top: 181px;
+}
+.s-first-container .careerTxt p {
+  text-align: center;
+  padding-top: 9px;
+  padding-right: 7px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: white;
+}
+.s-first-container .c-undertxt {
+  width: 360px;
+  height: 67px;
+  background-color: #066dec;
+  opacity: 60%;
+  position: relative;
+  left: 193px;
+  top: 181px;
+  text-align: left;
+}
+.s-first-container .c-undertxt p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+  padding-top: 5px;
+  padding-left: 16px;
+
+  color: #ffffff;
+}
+.s-first-container .s-secparalist {
+  position: relative;
+  left: 162px;
+  top: 243px;
+}
+.s-first-container .s-secparalist p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 54px;
+
+  color: #ffffff;
+}
+.s-careerlist {
+  padding-top: 8pc;
+}
+.s-careerlist .home-career {
+  position: relative;
+  top: 35px;
+  float: right;
+  right: 237px;
+}
+.s-careerlist .career-container {
+  height: 489px;
+  width: 1040px;
+  border-style: dashed;
+  position: relative;
+  left: 378px;
+}
+.s-careerlist .career-container .careerdata {
+  position: relative;
+  text-align: left;
+  left: 309px;
+  bottom: -59px;
+}
+.s-careerlist .career-container .careerdata h2 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 34px;
+
+  color: #231815;
+}
+.s-last-con {
+  background: linear-gradient(180deg, #f5b8a0 -0.25%, #d5d8fb 98.95%);
+}
+.s-last-con .firstdiv {
+  position: relative;
+  height: 521px;
+  width: 1348px;
+  background: linear-gradient(90deg, #e89abf 0%, #9c90c4 100%);
+  top: 160px;
+  /* left: 240px; */
+}
+.s-last-con .textdiv {
+  position: relative;
+  height: 665px;
+  width: 672px;
+  background-color: #ffffff;
+  float: left;
+  top: -320px;
+  right: -67px;
+  border-style: dotted;
+  padding: 76px;
+}
+.s-last-con .textdiv .num {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 90px;
+  line-height: 109px;
+  position: relative;
+  top: -45px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.s-last-con .textdiv .second {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  position: relative;
+  top: -145px;
+  right: -105px;
+  color: #066dec;
+}
+.s-last-con .textdiv .third {
+  position: relative;
+  bottom: 133px;
+  left: 99px;
+}
+.s-last-con .textdiv .third p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 34px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.s-last-con .textdiv .fourth {
+  position: relative;
+  top: -107px;
+}
+.s-last-con .seconddiv {
+  width: 1040px;
+  height: 551px;
+  background: linear-gradient(90deg, #f5b8a0 0%, #d5d8fb 100%);
+}
